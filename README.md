@@ -1,6 +1,6 @@
 # Basic CRUD with React, Express, and Supabase
 
-This project is a full-stack contact manager that demonstrates how to build a CRUD workflow with React forms on the frontend, an Express server in Node.js, and a PostgreSQL database hosted on Supabase. It includes routing with React Router, REST endpoints, and a simple UI for creating, listing, updating, and deleting contacts.
+This project is a full-stack contact manager that demonstrates how to build a CRUD workflow with React forms on the frontend, an Express server in Node.js, and a PostgreSQL database hosted on Supabase. It includes routing with React Router, REST endpoints, and a simple UI for Creating, Reading/listing, Updating, and Deleting contacts.
 
 ## Prerequisites
 
