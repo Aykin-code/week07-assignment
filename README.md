@@ -40,6 +40,7 @@ This project is a full-stack contact manager that demonstrates how to build a CR
    \*Note:Phone as a text field, rather than a number, is to support notes and times e.g. 012234 333 444 (only after 9 am)
 
 4. Start the app:
+
    - Run the Express API only:
      ```bash
      npm run server
@@ -48,10 +49,7 @@ This project is a full-stack contact manager that demonstrates how to build a CR
      ```bash
      npm run dev
      ```
-   - Run both servers together (requires the `concurrently` dev dependency):
-     ```bash
-     npm run dev:fullstack
-     ```
+
 5. Open the client at [http://localhost:5173](http://localhost:5173) (default Vite port) and use the **Add contact** button to launch the create form.
 
 ## Project Structure
